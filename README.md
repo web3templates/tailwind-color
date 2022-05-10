@@ -1,10 +1,8 @@
 # Find the nearest Tailwind colour
 
-[Find the nearest Tailwind colour](https://find-nearest-tailwind-colour.netlify.app) is a web app to help you find the nearest colour from [the full Tailwind CSS colour palette](https://tailwindcss.com/docs/customizing-colors).
+[Find the nearest Tailwind colour](https://tailwind-color.vercel.app/) is a web app to help you find the nearest colour from [the full Tailwind CSS colour palette](https://tailwindcss.com/docs/customizing-colors).
 
-<https://v3--find-nearest-tailwind-colour.netlify.app/>
-
-This is a beta version to cover v3 of Tailwind CSS.
+<https://tailwind-color.vercel.app/>
 
 ## Developing
 
@@ -26,3 +24,4 @@ npm run build
 ## Thanks and credit
 
 Thanks to [Daniel Tao for his `nearest-color` package](https://github.com/dtao/nearest-color) that has the algorithm to find the nearest colour.
+Thanks to [Ed Johnson-Williams](https://github.com/edjw/find-nearest-tailwind-colour) for creating the web-app using Svelte
